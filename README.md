@@ -1,4 +1,4 @@
-# ELK based dashboards for 
+# ELK based dashboards for my lab
 This is community supported repo providing ELK based dashboards 
 
 ## How does it work?
